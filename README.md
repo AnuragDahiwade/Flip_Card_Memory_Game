@@ -27,10 +27,10 @@ The Flip Card Memory Game is a fun and challenging game that tests your memory a
 ---------------------
 
 ### Game Board
-![Game Board](https://drive.google.com/file/d/1jBL4s5b49dkdo5nUSPWO9BuKq2msZzGJ/view?usp=sharing)
+![Game Board](imgs/boardimg1.png)
 
 ### Flipped Cards
-![Flipped Cards](https://drive.google.com/file/d/1beHCrHb-c83gxMybrn1qx06SuxxmhJGH/view?usp=sharing)
+![Flipped Cards](imgs/boardimg2.png)
 
 
 
